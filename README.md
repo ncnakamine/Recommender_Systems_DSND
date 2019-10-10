@@ -4,11 +4,11 @@
 This notebook explores different approaches for making article recommendation using data from IBM Watson Studio.   
 
 # Prerequisites
-Anaconda 3 https://www.anaconda.com/distribution/
-Scikit-Learn
-Pandas
-Matplotlib
-Seaborn
+- Anaconda 3 https://www.anaconda.com/distribution/
+- Scikit-Learn
+- Pandas
+- Matplotlib
+- Seaborn
 
 # Files
 - Recommendations_with_IBM.ipynb - Notebook with analyses and findings. Includes loading and cleaning data, EDA, rank based recommendations, user-user based collaborative filtering, and matrix factorization.
